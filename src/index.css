@@ -1,0 +1,24 @@
+ body { font-size: 140%; padding: 1em; }
+#pincode{
+  padding: 8px 20px;
+  border-radius: 7px;
+  border: 1px solid green;
+  margin-bottom: 15px;
+}
+#weather-report {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#weather-report td, #weather-report th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+#weather-report th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
